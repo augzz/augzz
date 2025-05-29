@@ -2,8 +2,9 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/augzzz/AD-Detection-Lab">AD-Detection-Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/augzzz/AD-Detection-Lab">AD-Detection-Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/augzzz/AD_Detection_Lab">AD_Detection_Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/augzzz/AD_Detection_Lab">AD_Detection_Lab</a>|
+| Bash Scripting | <a href="https://github.com/augzzz/my_polybar">my_polybar</a>|
 
 ## Tools
 
@@ -17,6 +18,11 @@
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
     <a href="https://www.credly.com/earner/earned/badge/6fc8d4db-3cec-4628-b0a7-2a76018179e8">
@@ -28,7 +34,8 @@
 </div>
 
 ## Projects 
--  <a href="https://github.com/augzzz/AD-Detection-Lab">AD-Detection-Lab</a>
+-  <a href="https://github.com/augzzz/AD_Detection_Lab">AD_Detection_Lab</a>
+-  <a href="https://github.com/augzzz/my_polybar">my_polybar</a>
 
 
 <!--
