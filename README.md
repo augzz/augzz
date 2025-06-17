@@ -4,7 +4,7 @@
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/augzz/AD_Detection_Lab">AD_Detection_Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/augzz/AD_Detection_Lab">AD_Detection_Lab</a>|
-| Bash Scripting | <a href="https://github.com/augzz/my_polybar">my_polybar</a>|
+| Scripting | <a href="https://github.com/augzz/my_polybar">my_polybar</a>|
 
 ## Tools
 
