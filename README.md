@@ -1,3 +1,4 @@
+<!--
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -5,21 +6,11 @@
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/augzz/AD_Detection_Lab">AD_Detection_Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/augzz/AD_Detection_Lab">AD_Detection_Lab</a>|
 | Scripting | <a href="https://github.com/augzz/my_polybar">my_polybar</a>|
-
-## Tools
-
-### Network
+-->
+## Skills
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### SIEM
-<div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-### Scripting
-<div>
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
