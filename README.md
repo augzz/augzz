@@ -12,7 +12,11 @@
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ## Certifications
@@ -23,8 +27,9 @@
 </div>
 
 ## Projects 
--  <a href="https://github.com/augzz/AD_Detection_Lab">AD_Detection_Lab</a>
--  <a href="https://github.com/augzz/my_polybar">my_polybar</a>
+-  <a href="https://github.com/augzz/AD-Lab">AD-Lab</a>
+-  <a href="https://github.com/augzz/AD-Lab">Dungeons-of-Akazarn</a>
+-  <a href="https://github.com/augzz/my-polybar">my-polybar</a>
 
 
 <!--
