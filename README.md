@@ -36,7 +36,7 @@
 
 ## Projects 
 -  <a href="https://github.com/augzz/AD-Lab">AD-Lab</a>
--  <a href="https://github.com/augzz/AD-Lab">Dungeons-of-Akazarn</a>
+-  <a href="https://github.com/augzz/Dungeons-of-Akazarn">Dungeons-of-Akazarn</a>
 -  <a href="https://github.com/augzz/my-polybar">my-polybar</a>
 
 
