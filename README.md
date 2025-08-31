@@ -1,4 +1,4 @@
-Hi 👋, I'm Auggie.
+# Hi 👋, I'm Auggie.
 - 🔭 I’m currently working on ...
 - TryHackMe 
 <!--
