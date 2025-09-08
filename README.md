@@ -1,6 +1,5 @@
 # Hi 👋, I'm Auggie.
-- 🔭 I’m currently learning about cybersecurity ...
-TryHackMe 
+- 🔭 I’m currently learning more about cybersecurity using TryHackMe. 
 <!--
 ## Skills
 
