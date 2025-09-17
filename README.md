@@ -39,7 +39,7 @@
 -  <a href="https://github.com/augzz/AD-Lab">AD-Lab</a>
 -  <a href="https://github.com/augzz/my-polybar">my-polybar</a>
 
-![tryhackme stats](https://raw.githubusercontent.com/augzz/augzz/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/augz/augz/master/assets/thm_propic.png)
 
 <!--
 **augzz/augzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
