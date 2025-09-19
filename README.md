@@ -42,7 +42,9 @@
 ## Projects 
 -  <a href="https://github.com/augzz/Dungeons-of-Akazarn">Dungeons-of-Akazarn</a>
 -  <a href="https://github.com/augzz/AD-Lab">AD-Lab</a>
+-  <a href="https://github.com/augzz/portfolio-site">portfolio-site</a>
 -  <a href="https://github.com/augzz/my-polybar">my-polybar</a>
+
 
 <!--
 **augzz/augzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
