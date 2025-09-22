@@ -1,5 +1,4 @@
 ## Hi 👋
-- 🔭 I’m currently working on a portfolio website using React.
 - 🌱 I’m currently learning more about cybersecurity using TryHackMe.
 <!--
 ## Skills
