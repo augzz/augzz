@@ -1,5 +1,5 @@
 ## Hi 👋
-- 🌱 I’m currently learning more about cybersecurity using TryHackMe.
+
 <!--
 ## Skills
 
