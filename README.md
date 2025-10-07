@@ -47,9 +47,11 @@ I enjoy solving problems and learning more about technology along the way.
 -  <a href="https://github.com/augzz/my-polybar">my-polybar</a>
 
 💬 
-> "Stay far from timid, only make moves when your heart's in it. And live the phrase 'Sky's the limit'". - The Notorious B.I.G.
+> "Stay far from timid, only make moves when your heart's in it. And live the phrase 'Sky's the limit'".
+> -The Notorious B.I.G.
 
-> "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present". - Marcus Aurelius
+> "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present".
+> -Marcus Aurelius
 
 <!--
 **augzz/augzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
