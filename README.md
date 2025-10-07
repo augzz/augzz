@@ -1,4 +1,5 @@
 ## Hi 👋
+I enjoy solving problems and learning more about technology along the way.
 
 <!--
 ## Skills
@@ -30,12 +31,14 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
+<!--
 ## Certifications
 <div>
     <a href="https://www.credly.com/earner/earned/badge/20367d10-c4ce-4cb2-b881-26107b6b8570">
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     </a>
 </div>
+-->
 
 ## Projects 
 -  <a href="https://github.com/augzz/Dungeons-of-Akazarn">Dungeons-of-Akazarn</a>
@@ -43,6 +46,12 @@
 -  <a href="https://github.com/augzz/portfolio-site">portfolio-site</a>
 -  <a href="https://github.com/augzz/my-polybar">my-polybar</a>
 
+💬 
+> "Stay far from timid, only make moves when your heart's in it. And live the phrase 'Sky's the limit'".
+> - The Notorious B.I.G.
+
+> "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present".
+> - Marcus Aurelius
 
 <!--
 **augzz/augzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
